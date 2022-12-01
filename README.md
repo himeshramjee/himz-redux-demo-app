@@ -1,3 +1,7 @@
+# himz-redux-demo-app
+
+Demo app to learn absolute basics of redux with and without the use of the react-toolkit. Concepts include Creating, Configuring a Redux Store, Reducers and Slices (still need to go deeper into these), Actions and Dispatchers.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
